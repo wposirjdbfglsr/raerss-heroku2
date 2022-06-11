@@ -2,7 +2,7 @@
 
 点击下面按钮部署,好用的话记得点个Star：
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Yhttps://github.com/wposirjdbfglsr/Xray-heroku2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wposirjdbfglsr/Xray-heroku2.git)
 
 
 ## INBOUND
