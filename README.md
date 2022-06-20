@@ -20,7 +20,7 @@ vmess+ws+tls(tls由Heroku处理)
     "settings": {
         "clients": [
             {
-            "id": "bf0acad3-fc18-43c0-8010-8a26202892e7",
+            "id": "10caf765-5536-4d0a-9a18-3d64e065484f",
             "level": 0,
             "alterId": 0,
             "email": "love@xray.com"
@@ -48,7 +48,7 @@ vless+ws+tls
     "settings": {
         "clients": [
             {
-                "id": "bf0acad3-fc18-43c0-8010-8a26202892e7"
+                "id": "10caf765-5536-4d0a-9a18-3d64e065484f"
             }
         ],
         "decryption": "none"
